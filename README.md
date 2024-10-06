@@ -1,1 +1,1 @@
-Elika Rad - Python, JS, Rust
+**Elika Rad** - *Python*, *JS*, *Rust*
